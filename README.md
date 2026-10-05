@@ -1,4 +1,4 @@
-# mac-disk-cleanup
+# mac-cleanup-skill
 
 A Claude Code skill that finds what is filling your Mac's disk and frees space **safely**. It analyzes first, deletes only what you approve, and never touches risky data.
 
